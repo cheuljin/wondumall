@@ -29,8 +29,16 @@
 ![](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/resources/screenshot/update.JPG)
 
 ## 03. 개발기간
++ 2022.07.05 ~ 2022.08.02
 
 ## 04. 개발환경
++ JDK 11.05.15
++ Spring 5.3.6
++ Spring Tool Suite 3.9.18
++ Spring Security 5.7.2
++ Javascript ES5
++ Apache Tomcat 9
++ MyBatis 3.5.6
 
 ## 05. 후기
 
