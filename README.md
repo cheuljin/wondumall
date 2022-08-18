@@ -18,8 +18,13 @@
 + [회원컨트롤러.java](https://github.com/cheuljin/wondumall/blob/main/src/main/java/com/wondumall/Controller/LoginController.java)
 + [회원_SQL.xml](https://github.com/cheuljin/wondumall/blob/main/src/main/resources/mapper/login_SQL.xml)
 + [로그인화면.jsp](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/WEB-INF/views/login.jsp)
++ [마이페이지.jsp](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/WEB-INF/views/mypage.jsp)
++ [회원가입.jsp](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/WEB-INF/views/join.jsp)
++ [회원정보수정.jsp](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/WEB-INF/views/update.jsp)
 
 ## 02. 주요화면
++ 로그인화면
+  /Users/tsuki/Downloads/wondumall/원두몰화면/로그인화면.jpg
 
 ## 03. 개발기간
 
