@@ -23,7 +23,7 @@
 + [회원정보수정.jsp](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/WEB-INF/views/update.jsp)
 
 ## 02. 주요화면
-+[] (https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/resources/screenshot/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.JPG)
+![] (https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/resources/screenshot/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.JPG)
 
 ## 03. 개발기간
 
