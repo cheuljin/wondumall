@@ -15,7 +15,7 @@
 
 
 ## 01. 주요코드
--[로그인컨트롤러.java] (https://github.com/cheuljin/wondumall/blob/main/src/main/java/com/wondumall/Controller/LoginController.java)
++ [로그인컨트롤러.java] (https://github.com/cheuljin/wondumall/blob/main/src/main/java/com/wondumall/Controller/LoginController.java)
 
 ## 02. 주요화면
 
