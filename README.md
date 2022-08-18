@@ -16,7 +16,8 @@
 
 ## 01. 주요코드
 + [회원컨트롤러.java](https://github.com/cheuljin/wondumall/blob/main/src/main/java/com/wondumall/Controller/LoginController.java)
-+  [회원_SQL.xml] (https://github.com/cheuljin/wondumall/blob/main/src/main/resources/mapper/login_SQL.xml)
++ [회원_SQL.xml](https://github.com/cheuljin/wondumall/blob/main/src/main/resources/mapper/login_SQL.xml)
++ [로그인화면.jsp](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/WEB-INF/views/login.jsp)
 
 ## 02. 주요화면
 
