@@ -24,7 +24,7 @@
 
 ## 02. 주요화면
 + 로그인화면
-  /Users/tsuki/Downloads/wondumall/원두몰화면/로그인화면.jpg
+  (/Users/tsuki/Downloads/wondumall/원두몰화면/로그인화면.jpg)
 
 ## 03. 개발기간
 
