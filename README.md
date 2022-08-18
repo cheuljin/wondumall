@@ -24,6 +24,9 @@
 
 ## 02. 주요화면
 ![](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/resources/screenshot/login.JPG)
+![](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/resources/screenshot/join.JPG)
+![](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/resources/screenshot/mypage.JPG)
+![](https://github.com/cheuljin/wondumall/blob/main/src/main/webapp/resources/screenshot/update.JPG)
 
 ## 03. 개발기간
 
